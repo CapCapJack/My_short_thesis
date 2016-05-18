@@ -3,4 +3,4 @@ git is free software distributed under the GPL
 git has a mutable index called stage
 git track changes of files.
 git modify.
-create a new branch is really quick.
+create a new branch is really quick and simple.
